@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<a href="https://app.daily.dev/zombiefleischer"><img src="https://api.daily.dev/devcards/v2/BoiEXel0L7YDXZjnHw0df.png?r=awp&type=default" width="356" alt="Zombiefleischer's Dev Card"/></a>
+![DevCard](./devcard.png)
 
 <!--
 **Zombiefleischer/Zombiefleischer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
